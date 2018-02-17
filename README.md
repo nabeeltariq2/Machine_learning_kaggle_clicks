@@ -3,6 +3,6 @@
 
 Machine Learning in R to predict whether a mobile ad will be clicked.
 
-This project uses an ensemble approach, mapping the results for logistic regression back into the training dataset and running a decision tree classifier on the new training set. The logloss is used as the evaluation metric.
+This project uses an ###ensemble stacking approach, mapping the results for logistic regression back into the training dataset and running a decision tree classifier on the new training set. The logloss is used as the evaluation metric.
 
 Kaggle Description at https://www.kaggle.com/c/avazu-ctr-prediction
